@@ -3,7 +3,7 @@ title:       Kedar's Courses
 email:       
 author:      
 description: "A place to save information about courses I have taken."
-baseurl:     "/courses"
+baseurl:     "/mycourses"
 url:         "https://kpdir.github.io"
 date_format: "%b, %Y"
 header_pages:
