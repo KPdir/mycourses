@@ -1,11 +1,11 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+title:       Kedar's Courses
+email:       
+author:      
+description: "A place to save information about courses I have taken."
+baseurl:     "/courses"
+url:         "https://kpdir.github.io"
+date_format: "%b, %Y"
 header_pages:
  - about.md
  - contact.html
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   style: compressed
 plugins:
