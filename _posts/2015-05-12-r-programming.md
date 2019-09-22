@@ -6,7 +6,7 @@ summary:    Johns Hopkins University on Coursera
 categories: R, Programming Language, Statistics, Data Analysis
 ---
 
-[View Certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/973494~6562519/pdf)
+[View Certificate](https://github.com/KPdir/mycourses/blob/gh-pages/course_certificates/Coursera_Certificate_v1-9734946562519.pdf)
 
 ### Course Description
 

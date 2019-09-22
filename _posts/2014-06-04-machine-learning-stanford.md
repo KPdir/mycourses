@@ -6,7 +6,7 @@ summary:    Stanford University on Coursera
 categories: Machine Learning, Data Analysis, MATLAB
 ---
 
-[View Certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972224~6562519/pdf)
+[View Certificate](https://github.com/KPdir/mycourses/blob/gh-pages/course_certificates/Coursera_Certificate_v1-9722246562519.pdf)
 
 ### Course Description
 
