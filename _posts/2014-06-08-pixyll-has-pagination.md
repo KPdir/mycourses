@@ -9,15 +9,20 @@ categories: Statistics, Data Analysis, R
 # Link to Certificate
 
 # Course Syllabus
+
 ### Week 1: Unit 1 - Introduction to data
+
 - Part 1 – Designing studies
 - Part 2 – Exploratory data analysis
 - Part 3 – Introduction to inference via simulation
+
 ### Week 2: Unit 2 - Probability and distributions
+
 - Part 1 – Defining probability
 - Part 2 – Conditional probability
 - Part 3 – Normal distribution
 - Part 4 – Binomial distribution
+
 ### Week 3: Unit 3 - Foundations for inference
 - Part 1 – Variability in estimates and the Central Limit Theorem
 - Part 2 – Confidence intervals
