@@ -10,6 +10,6 @@ categories: R, Programming Language, Statistics, Data Analysis
 
 ### Course Description
 
-This course covers how to use & program in R for effective data analysis. It covers practical issues in statistical computing: programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, & organizing and commenting R code.
+> This course covers how to use & program in R for effective data analysis. It covers practical issues in statistical computing: programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, & organizing and commenting R code.
 
 [Course Homepage](https://www.coursera.org/learn/r-programming)

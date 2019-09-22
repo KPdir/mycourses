@@ -10,8 +10,9 @@ categories: Statistics, Data Analysis, R
 
 ### Course Description
 
-The Coursera course, Data Analysis and Statistical Inference has been revised and is now offered as part of Coursera Specialization [Statistics with R](https://www.coursera.org/specializations/statistics).
+> The Coursera course, Data Analysis and Statistical Inference has been revised and is now offered as part of Coursera Specialization [Statistics with R](https://www.coursera.org/specializations/statistics).
 
+>
 #### The goals of this course are as follows:
 - Recognize the importance of data collection, identify limitations in data collection methods, and determine how they affect the scope of inference.
 
