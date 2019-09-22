@@ -10,6 +10,8 @@ categories: Big Data Processing, Algorithms, Data Structures, Hadoop,MapReduce, 
 
 ### Course Description
 
+[Course Homepage](https://www.coursera.org/learn/data-manipulation)
+
 > In this course, you will learn the landscape of relevant systems, the principles on which they rely, their tradeoffs, and how to evaluate their utility against your requirements. You will learn how practical systems were derived from the frontier of research in computer science and what systems are coming on the horizon.   Cloud computing, SQL and NoSQL databases, MapReduce and the ecosystem it spawned, Spark and its contemporaries, and specialized systems for graphs and arrays will be covered.
 
 > Learning Goals: 
@@ -20,9 +22,6 @@ categories: Big Data Processing, Algorithms, Data Structures, Hadoop,MapReduce, 
 5. “Think” in MapReduce to effectively write algorithms for systems including Hadoop and Spark.  You will understand their limitations, design details, their relationship to databases, and their associated ecosystem of algorithms, extensions, and languages.
 write programs in Spark
 6. Describe the landscape of specialized Big Data systems for graphs, arrays, and streams
-
-
-[Course Homepage](https://www.coursera.org/learn/data-manipulation)
 
 ### Course Syllabus
 

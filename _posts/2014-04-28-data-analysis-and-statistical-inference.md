@@ -11,20 +11,14 @@ categories: Statistics, Data Analysis, R
 ### Course Description
 
 > The Coursera course, Data Analysis and Statistical Inference has been revised and is now offered as part of Coursera Specialization [Statistics with R](https://www.coursera.org/specializations/statistics).
-
 >
 #### The goals of this course are as follows:
 - Recognize the importance of data collection, identify limitations in data collection methods, and determine how they affect the scope of inference.
-
 - Use statistical software (R) to summarize data numerically and visually, and to perform data analysis.
 - Have a conceptual understanding of the unified nature of statistical inference.
-
 - Apply estimation and testing methods (confidence intervals and hypothesis tests) to analyze single variables and the relationship between two variables in order to understand natural phenomena and make data-based decisions.
-
 - Model and investigate relationships between two or more variables within a regression framework.
-
 - Interpret results correctly, effectively, and in context without relying on statistical jargon.
-
 - Critique data-based claims and evaluate data-based decisions.
 Complete a research project that employs simple statistical inference and modeling techniques.
 
