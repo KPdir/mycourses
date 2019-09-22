@@ -25,54 +25,22 @@ write programs in Spark
 
 ### Course Syllabus
 
-#### Week 1: 
+#### Week 1: Data Science Context and Concepts
 
-- Introduction
-- Linear Regression with One Variable
-- Linear Algebra Review
+> Understand the terminology and recurring principles associated with data science, and understand the structure of data science projects and emerging methodologies to approach them. Why does this emerging field exist? How does it relate to other fields? How does this course distinguish itself? What do data science projects look like, and how should they be approached? What are some examples of data science projects?
 
-####  Week 2: 
+####  Week 2: Relational Databases and the Relational Algebra
 
-- Linear Regression with Multiple Variables
-- Octave/Matlab Tutorial
-- Logistic Regression
+> Relational Databases are the workhouse of large-scale data management. Although originally motivated by problems in enterprise operations, they have proven remarkably capable for analytics as well. But most importantly, the principles underlying relational databases are universal in managing, manipulating, and analyzing data at scale. Even as the landscape of large-scale data systems has expanded dramatically in the last decade, relational models and languages have remained a unifying concept. For working with large-scale data, there is no more important programming model to learn.n
 
-####  Week 3: 
+####  Week 3: MapReduce and Parallel Dataflow Programming
 
-- Logistic Regression
-- Regularization
+> The MapReduce programming model (as distinct from its implementations) was proposed as a simplifying abstraction for parallel manipulation of massive datasets, and remains an important concept to know when using and evaluating modern big data platforms.
 
-####   Week 4: 
+####  Week 4: NoSQL: Systems and Concepts
 
-- Neural Networks: Representation
+> NoSQL systems are purely about scale rather than analytics, and are arguably less relevant for the practicing data scientist. However, they occupy an important place in many practical big data platform architectures, and data scientists need to understand their limitations and strengths to use them effectively.
 
-####  Week 5: 
+####  Week 5: Graph Analytics
 
-- Neural Networks: Learning
-
-####  Week 6: 
-
-- Advice for Applying Machine Learning
-- Machine Learning System Design
-
-####  Week 7: 
-
-- Support Vector Machines
-
-####  Week 8:
-
-- Unsupervised Learning
-- Dimensionality Reduction
-
-####  Week 9: 
-
-- Anomaly Detection
-- Recommender Systems
-
-#### Week 10:
-
-- Large Scale Machine Learning
-
-#### Week 11:
-
-- Application Example: Photo OCR
+> Graph-structured data are increasingly common in data science contexts due to their ubiquity in modeling the communication between entities: people (social networks), computers (Internet communication), cities and countries (transportation networks), or corporations (financial transactions). Learn the common algorithms for extracting information from graph data and how to scale them up.
