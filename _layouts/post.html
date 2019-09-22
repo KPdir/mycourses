@@ -10,7 +10,11 @@ layout: default
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
   <span class="post-meta">{{ page.date | date: "%b %Y" }}</span><br>
-  <span class="post-summary">{{ post.summary }}</span>
+  <span class="post-summary">
+  {% if post.summary %}
+    {{ post.summary }}
+  {% endif %}
+  </span>
   <!--{% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
